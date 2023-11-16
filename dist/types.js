@@ -23,3 +23,4 @@ console.log(foo("number"));
 function fail(message) {
     throw new Error(message);
 }
+//# sourceMappingURL=types.js.map
